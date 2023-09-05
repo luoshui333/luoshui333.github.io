@@ -5,7 +5,17 @@
     <link>https://blog.dantalian.ru/</link>
     <description>Recent content on 丹特丽安的档案馆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://blog.dantalian.ru/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 05 Sep 2023 19:35:41 +0800</lastBuildDate><atom:link href="https://blog.dantalian.ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>简洁美观高效的任务清单工具WeekToDo</title>
+      <link>https://blog.dantalian.ru/post/001-weektodo/</link>
+      <pubDate>Tue, 05 Sep 2023 19:35:41 +0800</pubDate>
+      
+      <guid>https://blog.dantalian.ru/post/001-weektodo/</guid>
+      <description>Github: https://github.com/manuelernestog/weektodo</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://blog.dantalian.ru/readme/</link>
