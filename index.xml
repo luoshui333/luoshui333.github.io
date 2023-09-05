@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>丹特丽安的档案馆</title>
+    <link>https://blog.dantalian.ru/</link>
+    <description>Recent content on 丹特丽安的档案馆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://blog.dantalian.ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://blog.dantalian.ru/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.dantalian.ru/readme/</guid>
+      <description>个人介绍 这个人不则么聪明的亚子，空脑壳！
+网站介绍 这里我想要分享很多实用的开源软件，希望可以提高大家的工作学习效率！</description>
+    </item>
+    
+  </channel>
+</rss>
